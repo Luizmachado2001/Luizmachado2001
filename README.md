@@ -10,7 +10,6 @@
 <br/>
 
 - 🔭 **Objetivo:** Me tornar um Desenvolvedor Back-End especialista em criar sistemas performáticos e escaláveis.
-- 🌱 **Estudando no momento:** Lógica de Programação, Estrutura de Dados e Algoritmos com C/C++, além de fundamentos de POO e Bancos de Dados.
 <br/>
 
 ## 🛠️ Tech Stack & Ferramentas Back-End
