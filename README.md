@@ -64,8 +64,14 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luizmachado2001&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizmachado2001&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luizmachado2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luizmachado2001&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Luizmachado2001&theme=tokyonight&hide_border=true" alt="Sequência de commits" />
 </div>
 
 <br/>
