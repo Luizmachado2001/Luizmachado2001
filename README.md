@@ -4,47 +4,48 @@
 
 <div align="center">
   <h3>🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
-  <p>👨‍💻 Focado em lógica de programação, estrutura de dados e desenvolvimento de software.</p>
+  <p>🚀 <b>Futuro Desenvolvedor Back-End</b> | Focado em Arquitetura de Software, Estrutura de Dados e APIs</p>
 </div>
 
 <br/>
 
-- 🔭 **Atualmente:** Focado nos estudos da faculdade e projetos práticos.
-- 🌱 **Aprendendo:** Linguagem Cb.
-- ⚡ **Curiosidade:** Sempre em busca de resolver problemas com código limpo.
-
+- 🔭 **Objetivo:** Me tornar um Desenvolvedor Back-End especialista em criar sistemas performáticos e escaláveis.
+- 🌱 **Estudando no momento:** Lógica de Programação, Estrutura de Dados e Algoritmos com C/C++, além de fundamentos de POO e Bancos de Dados.
 <br/>
 
-## 🛠️ Minha Stack de Estudos
+## 🛠️ Tech Stack & Ferramentas Back-End
 
 <table>
   <tr>
     <td valign="top" width="33%" align="center">
-      <h3>Linguagens & Base</h3>
+      <h3>Linguagens Base</h3>
       <a href="https://www.cprogramming.com/" target="_blank">
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
       </a>
       <a href="https://www.cplusplus.com/" target="_blank">
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
       </a>
-      <a href="https://www.javascript.com/" target="_blank">
-        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
-      </a>
       <a href="https://www.python.org/" target="_blank">
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
       </a>
-    </td>
-    <td valign="top" width="33%" align="center">
-      <h3>Frontend Web</h3>
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50" />
+      <a href="https://www.javascript.com/" target="_blank">
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" />
       </a>
     </td>
     <td valign="top" width="33%" align="center">
-      <h3>Ferramentas</h3>
+      <h3>Ecossistema & Bancos</h3>
+      <a href="https://nodejs.org/" target="_blank">
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" />
+      </a>
+    </td>
+    <td valign="top" width="33%" align="center">
+      <h3>Ambiente & Ferramentas</h3>
       <a href="https://git-scm.com/" target="_blank">
         <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" />
       </a>
